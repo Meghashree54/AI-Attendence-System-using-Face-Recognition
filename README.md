@@ -8,6 +8,13 @@ This project is rebuilt from scratch with the same core workflow as the referenc
 - Store attendance in daily CSV files
 - List and delete registered users
 
+# Project Structure
 
+- ```app.py```: Main Flask application
+- ```templates/home.html```: Dashboard (attendance + add user)
+- ```templates/listusers.html```: User list and delete page
+- ```static/faces/```: Dataset folder in Name_ID/ structure
+- ```static/face_recognition_model.pkl```: Trained model file (auto-generated)
+- ```Attendance/Attendance-MM_DD_YY.csv```: Daily attendance log (auto-generated)
 
 
