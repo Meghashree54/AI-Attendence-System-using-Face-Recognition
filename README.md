@@ -32,7 +32,7 @@ Each folder contains captured face images for that user.
 
 2.Install dependencies
 
-```pip install -r requirements.txt```
+```python -m pip install...```
 
 # Run
 
