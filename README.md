@@ -40,7 +40,7 @@ Each folder contains captured face images for that user.
 
 Then open:
 
- 👉 http://127.0.0.1:5000/
+👉 http://127.0.0.1:5000/
 
 # Usage
 
